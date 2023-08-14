@@ -1,0 +1,8 @@
+﻿  sort.cpp
+D:\111_VScode\Algorithms\Algorithms\sort.cpp(58,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\111_VScode\Algorithms\Algorithms\sort.cpp(61,25): warning C4018: “<”: 有符号/无符号不匹配
+D:\111_VScode\Algorithms\Algorithms\sort.cpp(95,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\111_VScode\Algorithms\Algorithms\sort.cpp(141,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\111_VScode\Algorithms\Algorithms\sort.cpp(215,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\111_VScode\Algorithms\Algorithms\sort.cpp(268,20): warning C4018: “<”: 有符号/无符号不匹配
+  Algorithms.vcxproj -> D:\111_VScode\Algorithms\Debug\Algorithms.exe
